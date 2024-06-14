@@ -1,4 +1,4 @@
-Cbin - Cloud-Based Intelligent Bin
+# Cbin - Cloud-Based Intelligent Bin
 🚧 This project is currently paused and has been moved to:
 👉 https://github.com/TheDevOpsPlayground/cbin
 
